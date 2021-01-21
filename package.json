@@ -11,7 +11,7 @@
     "ipfs-http-client": "^40.0.0",
     "js-beautify": "^1.9.1",
     "readline-sync": "^1.4.10",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.4.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.1"
